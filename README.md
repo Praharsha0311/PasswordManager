@@ -17,6 +17,7 @@ The Password Manager is a secure application designed to store and manage user p
     - Simple command-line interface.
     - Choose to add new passwords or view existing ones.
 
+
 ## Technical Details
 
 - **Language**: Python
